@@ -1,0 +1,43 @@
+html {
+  background-color: lightpink;
+}
+
+.list-heading {
+    font-weight: normal;
+}
+
+details {
+  margin: 0.7em;
+}
+
+p {
+  color: black;
+} 
+
+ul {
+  list-style-type: none;
+}
+
+li {
+  margin-top: 0.3em;
+}
+
+a {
+  text-decoration: none;
+}
+
+a:focus {
+  text-decoration: none;
+} 
+
+a:hover {
+  color: darkcyan;
+}
+
+.message {
+  font-style: italic
+}
+
+.copyright {
+  font-weight: 450;
+}
