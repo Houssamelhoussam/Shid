@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=Edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <title>Web Repository</title>
+  
+  <link rel="icon" type="image/x-icon" href="FAVICON.png">
+  <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+<header>
+  <p align="center">I made a website to practice my CSS skills, the point of my page is to guide you through some websites that i find useful or interesting,have fun.</p>
+ </header>
+  
+  
+ <hr>
+ 
+ <nav>
+ <ul>
+   <li>
+    <a href="https://fauux.neocities.org/">Lain</a>
+    <p>A site dedicated to lain, it's weird, everytime you click on different place in the interface you are redirect to a different place almost like some kind of maze/game I recommend you use it in a pc for the full experience and try reading and listing to everything</p> 
+    <figcaption>
+      -Five
+    </figcaption>
+   </li>
+   <li>
+     <a href="https://readberserk.com/">peak fiction</a>
+   </li>
+   <li>
+          <a href="https://odysee.com/$/invite/@ryry:c">WTF!!!</a>
+   </li>
+   <li>
+     <a href="https://alrauds.buzz/?p=25652">ALLAHU ALBAR</a> N.use tor
+   </li>
+ </ul>
+ </nav>
+ 
+ <hr>
+ 
+
+ <details> 
+ <summary><span class="list-heading">Amogn us!!1!</span></summary>
+ <nav>
+ <ul>
+   <li>
+     <a href="https://animixplay.to/">best site to watch anime</a>
+   </li>
+   <li>
+     <a href="https://z-lib.org/">no funny chines virus and porn ads while reading books</a>
+   </li>
+   <li>
+  <a href="https://www.comicextra.com/">comics</a>
+   </li>
+   <li>
+     <a href="http://nv3x2jozywh63fkohn5mwp2d73vasusjixn3im3ueof52fmbjsigw6ad.onion/">comics but on the dark net,make sure to use tor</a>
+   </li>
+   <li>
+    <a href="https://cs.rin.ru/forum/index.php?sid=8cf1840c461cbf9e51dc2c8cc20298f2">steam for poor people</a>
+   </li>
+ </ul>
+ </nav>
+ </details>
+ 
+ 
+ <fieldset>
+   <legend><span class="message">SEND ME A REVIEW!</span></legend>
+   <P>preferably regarding design and function</P>
+ <form action="" method="get" enctype="">
+  <label for="name">Name</label>
+  <input type="text" id="name" name="name" placeholder="Your Name..">
+  
+      <p>
+    <label for="message">Message:</label><br>
+    <textarea name="Contactcomen" id="message" rows="6" cols="20" placeholder="type your review here.."></textarea><br><br>
+    </fieldset>
+    <input type="submit" value="submit">
+    <button type="reset">Reset</button>
+    </p>
+  
+ </form>
+ 
+   <hr>          
+ <footer>
+   <p><span class="copyright">copyright</span> &copy;HOUSSAM</p>
+ </footer>
+  
+</body>
+</html>
